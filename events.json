@@ -1,0 +1,40 @@
+{
+    "events": [
+        {
+            "artist": "Coldplay",
+            "place": "Estádio do Morumbi, SP",
+            "date": "21/03/2023",
+            "imag_url": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/10/2560px-Coldplay_-_Global-Citizen-Festival_Hamburg_10-e1634214512837.jpg"
+        },
+        {
+            "artist": "Rock in Rio 2023",
+            "place": "Cidade do Rock, RJ",
+            "date": "15/09/2023",
+            "imag_url": "http://cdn.rockinrio.com/wp-content/uploads/og-rir-br.png"
+        },
+        {
+            "artist": "Mundo Bita - O Musical",
+            "place": "Sesc Pompéia, SP",
+            "date": "15/09/2023",
+            "imag_url": "https://eventicket.s3-sa-east-1.amazonaws.com/imgs/27470-banner-principal.jpg"
+        },
+        {
+            "artist": "Exposição Van Gogh",
+            "place": "Museus de Artes de São Paulo, SP",
+            "date": "De 20/04/2023 a 15/06/2023",
+            "imag_url": "https://www.vounajanela.com/wp-content/uploads/2020/10/masp-saopaulo-6-1024x584.jpg"
+        },
+        {
+            "artist": "Sobe o Som na PartyBox",
+            "place": "Rua Augusta, 3245, SP",
+            "date": "12/04/2023",
+            "imag_url": "https://www.elhombre.com.br/wp-content/uploads/2014/04/balada-sem-arte.jpg"
+        },
+        {
+            "artist": "Noite de Chorinho na Adega São Paulo",
+            "place": "Rua Aldebaran, 234 - Moema, SP",
+            "date": "02/04/2023",
+            "imag_url": "https://vejasp.abril.com.br/wp-content/uploads/2016/12/boteco-sao-paulo-bares-04.jpeg?quality=70&strip=info&w=920"
+        }
+    ]
+}
